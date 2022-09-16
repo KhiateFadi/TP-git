@@ -70,7 +70,8 @@ La bataille a débuté, tiens\
 Ce coup vient d'un expertà la guerre\
 Vaillant praticien des arts martiens\
 Délégué pour mettre un terme à ces horreurs\
-Tel est mon labeur, tu sais de qui je défends l'honneur</span>
+Tel est mon labeur, tu sais de qui je défends l'honneur
+</span>
 
 
 ### Chœur
