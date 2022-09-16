@@ -1,17 +1,8 @@
-<style>
-blue { color: blue }
-red { color: red }
-</style>
-
-<red> red color markdown text</red>
-<yellow> red color markdown text</yellow>
-
 # *L’École du micro d’argent*
 ## IAM
 
 ### Chœur
 
-<span style="color:blue">
 
 L'École du micro d'argent   
 L'École du micro d'argent  
@@ -21,7 +12,7 @@ L'École du micro d'argent
 L'École du micro d'argent   
 L'École du micro d'argent   
 
-</span>
+
 ### Shurik'n
 
 Assis en tailleur, voilà des heures que je médite\
@@ -80,3 +71,16 @@ Ce coup vient d'un expertà la guerre\
 Vaillant praticien des arts martiens\
 Délégué pour mettre un terme à ces horreurs\
 Tel est mon labeur, tu sais de qui je défends l'honneur
+
+### Chœur
+
+L'École du micro d'argent L'École du micro d'argent\
+Je représente\
+L'École du micro d'argent L'École du micro d'argent\
+Je représente\
+L'École du micro d'argent L'École du micro d'argent\
+Je représente\
+L'École du micro d'argent L'École du micro d'argent
+
+
+Source: [Lien](https://www.youtube.com/watch?v=x4uHgwHdXOA)
