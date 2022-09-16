@@ -49,7 +49,7 @@ Je représente\
 L'École du micro d'argent L'École du micro d'argent
 
 ### Akhenaton
-<span style='color:red'>
+
 Mon sabre scintille, je médite accroupi sous les branches d'un saule\
 Pleure, je défends l'honneur de mon école, fils\
 Le troisième œil scrute le terrain, la tactique\
@@ -71,7 +71,7 @@ Ce coup vient d'un expertà la guerre\
 Vaillant praticien des arts martiens\
 Délégué pour mettre un terme à ces horreurs\
 Tel est mon labeur, tu sais de qui je défends l'honneur
-</span>
+
 
 
 ### Chœur
